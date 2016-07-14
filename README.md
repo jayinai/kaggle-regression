@@ -12,10 +12,13 @@ Time spent on literature review is time well spent.
 
 This is one list of the whole compilation. For lists of other competitions and solutions, please refer to:
 
-* Kaggle - Classification
-* Kaggle - Deep Learning
-* Kaggle - Miscellaneous
+* Kaggle - [Classification](https://github.com/ShuaiW/kaggle-classification/)
+* Kaggle - [Deep Learning](https://github.com/ShuaiW/kaggle-deeplearning)
+* Kaggle - [Miscellaneous](https://github.com/ShuaiW/kaggle-miscellaneous)
 
 Hope the compilation can save you efforts and offer you insights. Enjoy!
+
+======
+
 
 
