@@ -16,6 +16,6 @@ This is one list of the whole compilation. For lists of other competitions and s
 * Kaggle - Deep Learning
 * Kaggle - Miscellaneous
 
-Hope the compilation can lend you a lense to the past.
+Hope the compilation can save you some efforts and offer you some insights
 
 
