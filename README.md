@@ -20,16 +20,59 @@ Hope the compilation can save you efforts and offer you insights. Enjoy!
 
 ======
 
-### Table of Content
+### [Deloitte/FIDE Chess Rating Challenge](https://www.kaggle.com/c/ChessRatings2)
 
-* [Forecast Eurovision Voting](#Forecast Eurovision Voting)
+Mon 7 Feb 2011 – Wed 4 May 2011
+
+This contest, sponsored by professional services firm Deloitte, will find the most accurate system to predict chess outcomes, and FIDE will also bring a top finisher to Athens to present their system
 
 ======
 
-### [Forecast Eurovision Voting](https://www.kaggle.com/c/Eurovision2010)
+### [RTA Freeway Travel Time Prediction](https://www.kaggle.com/c/RTA)
 
-Wed 7 Apr 2010 – Tue 25 May 2010 (6 years ago)
+Tue 23 Nov 2010 – Sun 13 Feb 2011
 
+This competition requires participants to predict travel time on Sydney's M4 freeway from past travel time observations.
+
+======
+
+### [Tourism Forecasting Part Two](https://www.kaggle.com/c/tourism2)
+
+Mon 20 Sep 2010 – Sun 21 Nov 2010
+
+Part two requires competitors to predict 793 tourism-related time series. The winner of this competition will be invited to contribute a discussion paper to the International Journal of Forecasting.
+
+======
+
+### [Chess ratings - Elo versus the Rest of the World](https://www.kaggle.com/c/chess)
+
+Tue 3 Aug 2010 – Wed 17 Nov 2010
+
+This competition aims to discover whether other approaches can predict the outcome of chess games more accurately than the workhorse Elo rating system.
+
+======
+
+### [Tourism Forecasting Part One](https://www.kaggle.com/c/tourism1)
+
+Mon 9 Aug 2010 – Sun 19 Sep 2010
+
+Part one requires competitors to predict 518 tourism-related time series. The winner of this competition will be invited to contribute a discussion paper to the International Journal of Forecasting.
+
+======
+
+### [World Cup 2010 - Take on the Quants](https://www.kaggle.com/c/worldcup2010)
+
+Thu 3 Jun 2010 – Fri 11 Jun 2010
+
+Quants at Goldman Sachs and JP Morgan have modeled the likely outcomes of the 2010 World Cup. Can you do better?
+
+======
+
+### [World Cup 2010 - Confidence Challenge](https://www.kaggle.com/c/worldcupconf)
+
+Thu 3 Jun 2010 – Fri 11 Jun 2010
+
+The Confidence Challenge requires competitors to assign a level of confidence to their World Cup predictions.
 
 ======
 
