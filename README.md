@@ -20,6 +20,79 @@ Hope the compilation can save you efforts and offer you insights. Enjoy!
 
 ======
 
+### [Online Product Sales](https://www.kaggle.com/c/online-sales)
+
+Fri 4 May 2012 – Tue 3 Jul 2012
+
+Predict the online sales of a consumer product based on a data set of product features.
+
+======
+
+### [Psychopathy Prediction Based on Twitter Usage](https://www.kaggle.com/c/twitter-psychopathy-prediction)
+
+Mon 14 May 2012 – Fri 29 Jun 2012
+
+Identify people who have a high degree of Psychopathy based on Twitter usage.
+
+======
+
+### [Benchmark Bond Trade Price Challenge](https://www.kaggle.com/c/benchmark-bond-trade-price-challenge)
+
+Fri 27 Jan 2012 – Mon 30 Apr 2012
+
+Develop models to accurately predict the trade price of a bond.
+
+======
+
+### [EMC Data Science Global Hackathon (Air Quality Prediction)](https://www.kaggle.com/c/dsg-hackathon)
+
+Sat 28 Apr 2012 – Sun 29 Apr 2012
+
+Build a local early warning systems to accurately predict dangerous levels of air pollutants on an hourly basis.
+
+======
+
+### [Algorithmic Trading Challenge](https://www.kaggle.com/c/AlgorithmicTradingChallenge)
+
+Fri 11 Nov 2011 – Sun 8 Jan 2012
+
+Develop new models to accurately predict the market response to large trades.
+
+======
+
+### [Allstate Claim Prediction Challenge](https://www.kaggle.com/c/ClaimPredictionChallenge)
+
+Wed 13 Jul 2011 – Wed 12 Oct 2011
+
+A key part of insurance is charging each customer the appropriate price for the risk they represent.
+
+======
+
+### [dunnhumby's Shopper Challenge](https://www.kaggle.com/c/dunnhumbychallenge)
+
+Fri 29 Jul 2011 – Fri 30 Sep 2011
+
+Going grocery shopping, we all have to do it, some even enjoy it, but can you predict it? dunnhumby is looking to build a model to better predict when supermarket shoppers will next visit the store and how much they will spend.
+
+======
+
+### [Wikipedia's Participation Challenge](https://www.kaggle.com/c/wikichallenge)
+
+Tue 28 Jun 2011 – Tue 20 Sep 2011
+
+This competition challenges data-mining experts to build a predictive model that predicts the number of edits an editor will make five months from the end date of the training dataset.
+
+======
+
+
+### [Mapping Dark Matter](https://www.kaggle.com/c/mdm)
+
+Mon 23 May 2011 – Thu 18 Aug 2011
+
+Measure the small distortion in galaxy images caused by dark matter
+
+======
+
 ### [Deloitte/FIDE Chess Rating Challenge](https://www.kaggle.com/c/ChessRatings2)
 
 Mon 7 Feb 2011 – Wed 4 May 2011
