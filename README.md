@@ -13,10 +13,19 @@ Time spent on literature review is time well spent.
 This is only one list of the whole compilation. For other lists of competitions and solutions, please refer to:
 
 * Kaggle - [Classification](https://github.com/ShuaiW/kaggle-classification/)
-* Kaggle - [Deep Learning](https://github.com/ShuaiW/kaggle-deeplearning)
+* Kaggle - [Text](https://github.com/ShuaiW/kaggle-text)
+* Kaggle - [Image](https://github.com/ShuaiW/kaggle-image)
 * Kaggle - [Miscellaneous](https://github.com/ShuaiW/kaggle-miscellaneous)
 
 Hope the compilation can save you efforts and offer you insights. Enjoy!
+
+======
+
+### [Raising Money to Fund an Organizational Mission](https://www.kaggle.com/c/Raising-Money-to-Fund-an-Organizational-Mission)
+
+Wed 18 Jul 2012 – Tue 18 Sep 2012
+
+Help worthy organizations more efficiently target and recruit loyal donors to support their causes.
 
 ======
 
