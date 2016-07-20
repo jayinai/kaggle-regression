@@ -13,11 +13,147 @@ Time spent on literature review is time well spent.
 This is only one list of the whole compilation. For other lists of competitions and solutions, please refer to:
 
 * Kaggle - [Classification](https://github.com/ShuaiW/kaggle-classification/)
-* Kaggle - [Text](https://github.com/ShuaiW/kaggle-text)
+* Kaggle - [NLP](https://github.com/ShuaiW/kaggle-nlp)
 * Kaggle - [Image](https://github.com/ShuaiW/kaggle-image)
 * Kaggle - [Miscellaneous](https://github.com/ShuaiW/kaggle-miscellaneous)
 
 Hope the compilation can save you efforts and offer you insights. Enjoy!
+
+======
+
+### [Walmart Recruiting - Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
+
+Thu 20 Feb 2014 – Mon 5 May 2014
+
+In this recruiting competition, job-seekers are provided with historical sales data for 45 Walmart stores located in different regions. Each store contains many departments, and participants must project the sales for each department in each store.
+
+======
+
+### [PAKDD 2014 - ASUS Malfunctional Components Prediction](https://www.kaggle.com/c/pakdd-cup-2014)
+
+Sun 26 Jan 2014 – Tue 1 Apr 2014
+
+Predict malfunctional components of ASUS notebooks
+
+======
+
+### [Loan Default Prediction - Imperial College London](https://www.kaggle.com/c/loan-default-prediction)
+
+Fri 17 Jan 2014 – Fri 14 Mar 2014
+
+Constructing an optimal portfolio of loans
+
+======
+
+### [See Click Predict Fix](https://www.kaggle.com/c/see-click-predict-fix)
+
+Sun 29 Sep 2013 – Wed 27 Nov 2013
+
+Predict which 311 issues are most important to citizens
+
+======
+
+### [AMS 2013-2014 Solar Energy Prediction Contest](https://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest)
+
+Mon 8 Jul 2013 – Fri 15 Nov 2013
+
+Forecast daily solar energy with an ensemble of weather models
+
+======
+
+### [The Big Data Combine Engineered by BattleFin](https://www.kaggle.com/c/battlefin-s-big-data-combine-forecasting-challenge)
+
+Fri 16 Aug 2013 – Tue 1 Oct 2013
+
+Predict short term movements in stock prices using news and sentiment data provided by RavenPack
+
+======
+
+### [See Click Predict Fix - Hackathon](https://www.kaggle.com/c/the-seeclickfix-311-challenge)
+
+Sat 28 Sep 2013 – Sun 29 Sep 2013
+
+Predict which 311 issues are most important to citizens
+
+======
+
+### [RecSys2013: Yelp Business Rating Prediction](https://www.kaggle.com/c/yelp-recsys-2013)
+
+Wed 24 Apr 2013 – Sat 31 Aug 2013
+
+RecSys Challenge 2013: Yelp business rating prediction
+
+======
+
+### [Yelp Recruiting Competition](https://www.kaggle.com/c/yelp-recruiting)
+
+Wed 27 Mar 2013 – Sun 30 Jun 2013
+
+The goal of this competition is to estimate the number of Useful votes a review will receive.
+
+======
+
+### [dunnhumby & hack/reduce Product Launch Challenge](https://www.kaggle.com/c/hack-reduce-dunnhumby-hackathon)
+
+Sat 11 May 2013 – Sat 11 May 2013
+
+The success or failure of a new product launch is often evident within the first few weeks of sales. Can you predict a product's destiny?
+
+======
+
+### [ICDAR2013 - Handwriting Stroke Recovery from Offline Data](https://www.kaggle.com/c/icdar2013-stroke-recovery-from-offline-data)
+
+Wed 20 Mar 2013 – Sat 20 Apr 2013
+
+Predict the trajectory of a handwritten signature
+
+======
+
+### [Blue Book for Bulldozers](https://www.kaggle.com/c/bluebook-for-bulldozers)
+
+Fri 25 Jan 2013 – Wed 17 Apr 2013
+
+Predict the auction sale price for a piece of heavy equipment to create a "blue book" for bulldozers.
+
+======
+
+### [Job Salary Prediction](https://www.kaggle.com/c/job-salary-prediction)
+
+Wed 13 Feb 2013 – Wed 3 Apr 2013
+
+Predict the salary of any UK job ad based on its contents.
+
+======
+
+### [Observing Dark Worlds](https://www.kaggle.com/c/DarkWorlds)
+
+Fri 12 Oct 2012 – Sun 16 Dec 2012
+
+Can you find the Dark Matter that dominates our Universe? Winton Capital offers you the chance to unlock the secrets of dark worlds.
+
+======
+
+### [U.S. Census Return Rate Challenge](https://www.kaggle.com/c/us-census-challenge)
+
+Fri 31 Aug 2012 – Sun 11 Nov 2012
+
+Predict census mail return rates.
+
+======
+
+### [Global Energy Forecasting Competition 2012 - Wind Forecasting](https://www.kaggle.com/c/GEF2012-wind-forecasting)
+
+Thu 6 Sep 2012 – Wed 31 Oct 2012
+
+A wind power forecasting problem: predicting hourly power generation up to 48 hours ahead at 7 wind farms
+
+======
+
+### [Global Energy Forecasting Competition 2012 - Load Forecasting](https://www.kaggle.com/c/global-energy-forecasting-competition-2012-load-forecasting)
+
+Sat 1 Sep 2012 – Wed 31 Oct 2012
+
+A hierarchical load forecasting problem: backcasting and forecasting hourly loads (in kW) for a US utility with 20 zones.
 
 ======
 
