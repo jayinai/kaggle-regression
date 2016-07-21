@@ -13,11 +13,131 @@ Time spent on literature review is time well spent.
 This is only one list of the whole compilation. For other lists of competitions and solutions, please refer to:
 
 * Kaggle - [Classification](https://github.com/ShuaiW/kaggle-classification/)
-* Kaggle - [NLP](https://github.com/ShuaiW/kaggle-nlp)
+* Kaggle - [Sequence](https://github.com/ShuaiW/kaggle-sequence)
 * Kaggle - [Image](https://github.com/ShuaiW/kaggle-image)
 * Kaggle - [Miscellaneous](https://github.com/ShuaiW/kaggle-miscellaneous)
 
 Hope the compilation can save you efforts and offer you insights. Enjoy!
+
+======
+
+### [Grupo Bimbo Inventory Demand](https://www.kaggle.com/c/grupo-bimbo-inventory-demand)
+
+Wed 8 Jun 2016 - Tue 30 Aug 2016
+
+Maximize sales and minimize returns of bakery goods
+
+======
+
+### [Kobe Bryant Shot Selection](https://www.kaggle.com/c/kobe-bryant-shot-selection)
+
+Fri 15 Apr 2016 – Mon 13 Jun 2016
+
+Which shots did Kobe sink?
+
+======
+
+### [Home Depot Product Search Relevance](https://www.kaggle.com/c/home-depot-product-search-relevance)
+
+Mon 18 Jan 2016 – Mon 25 Apr 2016
+
+Predict the relevance of search results on homedepot.com
+
+======
+
+### [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)
+
+Wed 30 Sep 2015 – Mon 14 Dec 2015
+
+Forecast sales using store, promotion, and competitor data
+
+======
+
+### [How Much Did It Rain? II](https://www.kaggle.com/c/how-much-did-it-rain-ii)
+
+Thu 17 Sep 2015 – Mon 7 Dec 2015
+
+Predict hourly rainfall using data from polarimetric radars
+
+======
+
+### [Caterpillar Tube Pricing](https://www.kaggle.com/c/caterpillar-tube-pricing)
+
+Mon 29 Jun 2015 – Mon 31 Aug 2015
+
+Model quoted prices for industrial tube assemblies
+
+======
+
+### [Liberty Mutual Group: Property Inspection Prediction](https://www.kaggle.com/c/liberty-mutual-group-property-inspection-prediction)
+
+Mon 6 Jul 2015 – Fri 28 Aug 2015
+
+Quantify property hazards before time of inspection
+
+======
+
+### [ECML/PKDD 15: Taxi Trip Time Prediction (II)](https://www.kaggle.com/c/pkdd-15-taxi-trip-time-prediction-ii)
+
+Fri 24 Apr 2015 – Wed 1 Jul 2015
+
+Predict the total travel time of taxi trips based on their initial partial trajectories
+
+======
+
+### [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)
+
+Wed 28 May 2014 – Fri 29 May 2015
+
+Forecast use of a city bikeshare system
+
+======
+
+### [Walmart Recruiting II: Sales in Stormy Weather](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather)
+
+Wed 1 Apr 2015 – Mon 25 May 2015
+
+Walmart challenges participants to accurately predict the sales of 111 potentially weather-sensitive products (like umbrellas, bread, and milk) around the time of major weather events at 45 of their retail locations.
+
+======
+
+### [How Much Did It Rain?](https://www.kaggle.com/c/how-much-did-it-rain)
+
+Fri 9 Jan 2015 – Fri 15 May 2015
+
+Predict probabilistic distribution of hourly rain given polarimetric radar measurements
+
+======
+
+### [Restaurant Revenue Prediction](https://www.kaggle.com/c/restaurant-revenue-prediction)
+
+Mon 23 Mar 2015 – Mon 4 May 2015
+
+Predict annual restaurant sales based on objective measurements
+
+======
+
+### [Finding Elo](https://www.kaggle.com/c/finding-elo)
+
+Mon 20 Oct 2014 – Mon 23 Mar 2015
+
+Predict a chess player's FIDE Elo rating from one game
+
+======
+
+### [Africa Soil Property Prediction Challenge](https://www.kaggle.com/c/afsis-soil-properties)
+
+Wed 27 Aug 2014 – Tue 21 Oct 2014
+
+Predict physical and chemical properties of soil using spectral measurements
+
+======
+
+### [Liberty Mutual Group - Fire Peril Loss Cost](https://www.kaggle.com/c/liberty-mutual-fire-peril)
+
+Tue 8 Jul 2014 – Tue 2 Sep 2014
+
+Predict expected fire losses for insurance policies
 
 ======
 
